@@ -70,3 +70,5 @@ function newItem(url, left, bottom){
     newItem('assets/sword.png', 500, 405)
     newItem('assets/sheild.png', 165, 185) //there was a typo here lol for the sake of the code I kept the typo in the assets
     newItem('assets/staff.png', 600, 100)
+
+//After class thought, dont use var lol it is frowned upon. will leave it in this excercise to remind me.
